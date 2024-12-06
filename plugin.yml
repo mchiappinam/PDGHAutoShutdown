@@ -1,0 +1,12 @@
+name: PDGHAutoShutdown
+main: me.mchiappinam.pdghautoshutdown.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   autos:
+      description: Info.
+      usage: /<command>
+   tempo:
+      description: Info.
+      usage: /<command>
